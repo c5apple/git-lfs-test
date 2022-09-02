@@ -28,6 +28,12 @@ https://git-lfs.github.com/
 履歴改竄  
 `git lfs migrate import`
 
+### やめる
+
+`git lfs untrack "*.dat"`
+
+`git lfs uninstall`
+
 ## おまけ
 
 ### 大きなダミーファイルの作り方
