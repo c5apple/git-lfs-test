@@ -20,6 +20,14 @@ https://git-lfs.github.com/
 
 `git lfs track "ディレクトリ/**"`
 
+### 過去にコミットしたファイルがある場合
+
+確認  
+`git lfs migrate info`
+
+履歴改竄  
+`git lfs migrate import`
+
 ## おまけ
 
 ### 大きなダミーファイルの作り方
