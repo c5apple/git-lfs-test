@@ -36,6 +36,8 @@ https://git-lfs.github.com/
 
 `git lfs untrack "*.dat"`
 
+`git rm --cached *.dat`
+
 `git lfs uninstall`
 
 ## おまけ
