@@ -28,6 +28,10 @@ https://git-lfs.github.com/
 履歴改竄  
 `git lfs migrate import`
 
+### LFSからダウンロードする
+
+`git lfs pull`
+
 ### やめる
 
 `git lfs untrack "*.dat"`
